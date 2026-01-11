@@ -12,7 +12,7 @@ export ICON=/usr/share/icons/hicolor/256x256/apps/rustdesk.png
 export DESKTOP=/usr/share/applications/rustdesk.desktop
 
 # Deploy dependencies
-quick-sharun /usr/lib/rustdesk/rustdesk
+quick-sharun /usr/bin/rustdesk
 
 # Additional changes can be done in between here
 
