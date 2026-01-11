@@ -17,6 +17,6 @@ if [ "$ARCH" = 'x86_64' ]; then
 fi
 
 # Comment this out if you need an AUR package
-make-aur-package rustdesk
+make-aur-package --chaotic-aur rustdesk
 
 # If the application needs to be manually built that has to be done down here
